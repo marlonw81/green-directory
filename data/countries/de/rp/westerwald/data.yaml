@@ -1,0 +1,27 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Westerwald
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-ww.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenewesterwald/
+emails:
+- address: kv-westerwald@gruene-rlp.de
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Westerwald
+city: Höhr-Grenzhausen
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-hg.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/B90DieGruenenHG/
+emails:
+- address: info@gruene-hg.de
