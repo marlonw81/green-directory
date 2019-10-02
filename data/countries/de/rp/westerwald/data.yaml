@@ -9,8 +9,12 @@ urls:
     url: http://www.gruene-ww.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenewesterwald/
+  - type: TWITTER
+    url: https://twitter.com/GrueneWw
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_westerwald/
 emails:
-- address: kv-westerwald@gruene-rlp.de
+  - address: kv-westerwald@gruene-rlp.de
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -23,5 +27,7 @@ urls:
     url: http://www.gruene-hg.de/
   - type: FACEBOOK
     url: https://www.facebook.com/B90DieGruenenHG/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_hg/
 emails:
-- address: info@gruene-hg.de
+  - address: info@gruene-hg.de
